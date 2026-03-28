@@ -1,7 +1,7 @@
 [project]
 name = "mode_engine"
 version = "0.1.0"
-description = "Mixture-of-Decoder-Experts engine: model loading, expansion, and plugin registry"
+description = "Mixture of Directed Experts (MoDE) engine: model loading, expansion, and plugin registry"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "Sunvir S. Gujral" }]

@@ -1,6 +1,6 @@
 # mode_engine
 
-**Mixture-of-Decoder-Experts (MoDE) engine** for extending causal language models with externally-gated expert blocks.
+**Mixture of Directed Experts (MoDE) engine** for extending causal language models with externally-gated expert blocks.
 
 `mode_engine` is a standalone PyTorch library that handles:
 
@@ -8,11 +8,13 @@
 - Wrapping decoder layers with **vectorized MoE expansion blocks** whose expert routing is controlled externally (per-user, per-session gate indices)
 - Growing or removing expansion blocks without disturbing base model weights
 
-It has no dependency on any web framework. It is used as the ML core of [modelstudio](../modelstudio), but can be imported into any Python project.
+It has no dependency on any web framework. It is used as the ML core of [Polymodels](https://polymodels.net), but can be imported into any Python project.
 
 ---
 
 ## Installation
+
+Note that this package is not yet available on PyPI. You can install it directly from the repository:
 
 ```bash
 pip install mode_engine

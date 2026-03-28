@@ -1,4 +1,4 @@
-"""mode_engine — Mixture-of-Decoder-Experts engine.
+"""mode_engine — Mixture of Directed Experts (MoDE) engine.
 
 Public API
 ----------
