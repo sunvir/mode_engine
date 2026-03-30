@@ -65,8 +65,7 @@ thereof — whether in source or binary form, in documentation, in user
 interfaces, or in any other medium — must include the following attribution
 notice, clearly visible and not obscured:
 
-    "Powered by mode_engine, created by Sunvir S. Gujral.
-     https://github.com/sunvir/mode_engine"
+    "Powered by mode_engine. https://github.com/sunvir/mode_engine"
 
 In academic publications, research papers, or technical reports that use,
 reference, or build upon the Software, You must cite the Software and credit
