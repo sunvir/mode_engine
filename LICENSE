@@ -1,173 +1,92 @@
-MoDE Engine Source Available License
-Version 1.0, 2026
+MoDE Engine Source‑Available License (MESAL) v1.2 (2026)
+SPDX-License-Identifier: MESAL-1.2
+Copyright (c) 2026 Sunvir S. Gujral.
+All rights reserved.
 
-Copyright (c) 2026 Sunvir S. Gujral. All rights reserved.
+1. Definitions
 
-DEFINITIONS
+“Software” means the mode_engine source code, documentation, models, examples, and all associated files.
+“Author” means Sunvir S. Gujral.
+“Non‑Commercial Use” means any use that is not a Commercial Purpose.
+“Commercial Purpose” means any activity described in Section 3.
+“Derivative Work” means any modification, adaptation, translation, extension, or other work based on or incorporating the Software.
+“Contribution” means any code, documentation, or other material intentionally submitted to the Author for inclusion in the Software.
+“You” means any individual or entity exercising rights under this License.
 
-"Software" means the mode_engine source code, documentation, and all
-associated files distributed under this License.
+2. Grant of Rights (Non‑Commercial Only)
 
-"Author" means Sunvir S. Gujral, the original creator and copyright holder
-of the Software.
+Subject to the terms of this License, the Author grants You a worldwide, royalty‑free, non‑exclusive, non‑transferable license to:
 
-"Commercial Use" means any use of the Software, directly or indirectly, for
-financial gain or in connection with any revenue-generating activity,
-including but not limited to: incorporating the Software into a commercial
-product or service; using the Software to provide a paid service; using the
-Software internally within a for-profit organization to support business
-operations; or sublicensing the Software as part of a commercial offering.
+1. Use and reproduce the Software for Non‑Commercial Use.
+2. Create Derivative Works for Non‑Commercial Use.
+3. Distribute the Software or Derivative Works for Non‑Commercial Use, provided that:
+   - this License is included in all copies, and
+   - the Attribution Notice (Section 4) is preserved.
 
-"Non-Commercial Use" means personal, academic, research, or educational use
-that is not Commercial Use.
+No rights are granted for Commercial Purpose.
 
-"Derivative Work" means any work that is based on or incorporates the
-Software or any substantial portion thereof, including translations,
-adaptations, modifications, and works that interoperate with the Software.
+3. Commercial Purpose (PolyForm‑Inspired Restrictions)
 
-"You" (or "Your") means the individual or legal entity exercising rights
-under this License.
+You may not use the Software for any Commercial Purpose. “Commercial Purpose” includes, but is not limited to:
 
----
+1. Any use of the Software in a revenue‑generating field of endeavor, including:
+   - selling, licensing, or distributing products or services
+   - providing consulting, support, or integration services
+   - using the Software to develop commercial products
+   - using the Software in a paid or monetized service
 
-GRANT OF RIGHTS — NON-COMMERCIAL USE
+2. Any use by or for the benefit of a for‑profit entity, regardless of whether the Software itself is sold.
 
-Subject to the terms and conditions of this License, the Author hereby grants
-You a worldwide, royalty-free, non-exclusive, non-transferable license to:
+3. Any internal use that supports a revenue‑generating activity, including research, prototyping, evaluation, or product development.
 
-  (a) reproduce and use the Software solely for Non-Commercial Use;
-  (b) prepare Derivative Works of the Software solely for Non-Commercial Use;
-  (c) distribute copies of the Software or Derivative Works solely for
-      Non-Commercial Use, provided that this License and the Attribution
-      Notice below are included in all copies or substantial portions of
-      the Software.
+4. Any use in commercial AI model training, deployment, or inference, including internal R&D.
 
-This license does not grant You any right to use the Software for
-Commercial Use.
+Commercial Purpose requires a separate written license from the Author. Unauthorized Commercial Purpose is strictly prohibited.
 
----
+4. Attribution Requirement
 
-COMMERCIAL USE LICENSE
+All copies, Derivative Works, documentation, user interfaces, or other materials that include or depend on the Software must display:
 
-Any Commercial Use of the Software requires a separate written license
-agreement executed by the Author. To inquire about a commercial license,
-contact the Author directly.
+“Powered by MoDE Engine — https://github.com/sunvir/mode_engine”
 
-Use of the Software for Commercial Use without such a written agreement is
-strictly prohibited and constitutes copyright infringement.
+Academic and research publications must cite the Software and credit the Author.
 
----
+5. Contributor License Agreement (CLA)
 
-ATTRIBUTION REQUIREMENT
+By submitting a Contribution, You agree that:
 
-All copies of the Software, Derivative Works, or substantial portions
-thereof — whether in source or binary form, in documentation, in user
-interfaces, or in any other medium — must include the following attribution
-notice, clearly visible and not obscured:
+1. You grant the Author a perpetual, irrevocable, worldwide, royalty‑free license to use, modify, distribute, sublicense, and commercially license Your Contribution as part of the Software.
+2. Your Contribution is licensed back to You under this same License (MESAL v1.2).
+3. You affirm that You have the legal right to submit the Contribution.
+4. All Contributions automatically become part of the Software and inherit this License.
 
-    "Powered by mode_engine. https://github.com/sunvir/mode_engine"
-
-In academic publications, research papers, or technical reports that use,
-reference, or build upon the Software, You must cite the Software and credit
-Sunvir S. Gujral as the original author.
-
----
-
-NO PATENT LICENSE
-
-This License does not grant You any rights under any patent claims of the
-Author or any other party. No patent license, express or implied, is granted
-by this License. The Author makes no representation that the Software does
-not infringe any third-party patent. You assume all risk and responsibility
-for determining whether Your use of the Software infringes any patent.
-
----
-
-RESTRICTIONS
+6. Additional Restrictions
 
 You may not:
 
-  (a) use the Software for Commercial Use without a separate written
-      commercial license from the Author;
-  (b) remove, obscure, or alter any copyright, attribution, or license
-      notices included in the Software;
-  (c) sublicense, sell, rent, lease, or transfer the Software or any rights
-      therein to any third party, except as expressly permitted herein;
-  (d) use the name "mode_engine", "MoDE Engine", or the name "Sunvir S.
-      Gujral" to endorse or promote products derived from the Software
-      without prior written permission from the Author.
+1. Use the Software for any Commercial Purpose.
+2. Use the Software in any service, product, or system that is sold, licensed, monetized, or used to support a commercial activity.
+3. Remove or obscure copyright, attribution, or license notices.
+4. Sublicense, sell, rent, or lease the Software.
+5. Use the Software to train or develop models, systems, or tools intended for commercial deployment.
+6. Attempt to circumvent or bypass these restrictions.
 
----
+7. No Patent License
 
-DISCLAIMER OF WARRANTIES
+No patent rights are granted under this License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE AUTHOR
-DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, SECURE,
-OR THAT ANY DEFECTS WILL BE CORRECTED. YOU ASSUME ALL RISK ASSOCIATED WITH
-YOUR USE OF THE SOFTWARE.
+8. Disclaimer of Warranty
 
----
+The Software is provided “AS IS”, without warranty of any kind.
 
-LIMITATION OF LIABILITY AND INDEMNIFICATION
+9. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+To the maximum extent permitted by law, the Author and contributors shall have no liability for any damages arising from use of the Software.
 
-  (a) IN NO EVENT SHALL SUNVIR S. GUJRAL, ANY CO-AUTHOR, CONTRIBUTOR,
-      MAINTAINER, OR ANY OTHER PARTY WHO HAS CONTRIBUTED TO OR DISTRIBUTED
-      THE SOFTWARE (COLLECTIVELY, "COVERED PARTIES") BE LIABLE FOR ANY
-      DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
-      PUNITIVE, OR OTHER DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO
-      DAMAGES FOR LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF
-      GOODWILL, BUSINESS INTERRUPTION, PERSONAL INJURY, PROPERTY DAMAGE,
-      OR ANY OTHER LOSS ARISING OUT OF OR IN CONNECTION WITH THE USE OF OR
-      INABILITY TO USE THE SOFTWARE, EVEN IF SUCH COVERED PARTY HAS BEEN
-      ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+10. Termination
 
-  (b) YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS SUNVIR S. GUJRAL
-      AND ALL OTHER COVERED PARTIES FROM AND AGAINST ANY AND ALL CLAIMS,
-      DEMANDS, LOSSES, LIABILITIES, DAMAGES, COSTS, AND EXPENSES (INCLUDING
-      REASONABLE ATTORNEYS' FEES) ARISING OUT OF OR RELATED TO: (i) YOUR USE
-      OF THE SOFTWARE; (ii) ANY DERIVATIVE WORK YOU CREATE; (iii) YOUR
-      VIOLATION OF THIS LICENSE; OR (iv) YOUR VIOLATION OF ANY APPLICABLE LAW
-      OR THE RIGHTS OF ANY THIRD PARTY.
+This License terminates automatically if You violate any term. Upon termination, You must cease all use and destroy all copies.
 
-  (c) THE AGGREGATE LIABILITY OF ALL COVERED PARTIES TO YOU FOR ANY CLAIM
-      ARISING UNDER OR RELATED TO THIS LICENSE SHALL NOT EXCEED ZERO UNITED
-      STATES DOLLARS (USD $0.00).
+11. Governing Law
 
----
-
-TERMINATION
-
-This License and the rights granted hereunder terminate automatically if You
-fail to comply with any term of this License. Upon termination, You must
-immediately cease all use and distribution of the Software and destroy all
-copies in Your possession. Sections titled "No Patent License",
-"Disclaimer of Warranties", "Limitation of Liability and Indemnification",
-and "General" survive termination.
-
----
-
-GENERAL
-
-  (a) Governing Law. This License shall be governed by and construed in
-      accordance with the laws of the jurisdiction in which the Author
-      resides, without regard to conflict-of-law principles.
-
-  (b) Severability. If any provision of this License is held unenforceable,
-      that provision shall be modified to the minimum extent necessary to
-      make it enforceable, and the remaining provisions shall continue in
-      full force and effect.
-
-  (c) Entire Agreement. This License constitutes the entire agreement between
-      You and the Author with respect to the Software and supersedes all
-      prior or contemporaneous agreements, representations, or understandings.
-
-  (d) No Waiver. Failure by the Author to enforce any provision of this
-      License shall not constitute a waiver of future enforcement.
-
----
-
-For commercial licensing inquiries, contact: Sunvir S. Gujral
+This License is governed by the laws of the Author’s jurisdiction.
