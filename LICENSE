@@ -17,9 +17,9 @@ All rights reserved.
 
 Subject to the terms of this License, the Author grants You a worldwide, royalty‑free, non‑exclusive, non‑transferable license to:
 
-1. Use and reproduce the Software for Non‑Commercial Use.
-2. Create Derivative Works for Non‑Commercial Use.
-3. Distribute the Software or Derivative Works for Non‑Commercial Use, provided that:
+ 1. Use and reproduce the Software for Non‑Commercial Use.
+ 2. Create Derivative Works for Non‑Commercial Use.
+ 3. Distribute the Software or Derivative Works for Non‑Commercial Use, provided that:
    - this License is included in all copies, and
    - the Attribution Notice (Section 4) is preserved.
 
@@ -29,17 +29,17 @@ No rights are granted for Commercial Purpose.
 
 You may not use the Software for any Commercial Purpose. “Commercial Purpose” includes, but is not limited to:
 
-1. Any use of the Software in a revenue‑generating field of endeavor, including:
+ 1. Any use of the Software in a revenue‑generating field of endeavor, including:
    - selling, licensing, or distributing products or services
    - providing consulting, support, or integration services
    - using the Software to develop commercial products
    - using the Software in a paid or monetized service
 
-2. Any use by or for the benefit of a for‑profit entity, regardless of whether the Software itself is sold.
+ 2. Any use by or for the benefit of a for‑profit entity, regardless of whether the Software itself is sold.
 
-3. Any internal use that supports a revenue‑generating activity, including research, prototyping, evaluation, or product development.
+ 3. Any internal use that supports a revenue‑generating activity, including research, prototyping, evaluation, or product development.
 
-4. Any use in commercial AI model training, deployment, or inference, including internal R&D.
+ 4. Any use in commercial AI model training, deployment, or inference, including internal R&D.
 
 Commercial Purpose requires a separate written license from the Author. Unauthorized Commercial Purpose is strictly prohibited.
 
@@ -55,21 +55,21 @@ Academic and research publications must cite the Software and credit the Author.
 
 By submitting a Contribution, You agree that:
 
-1. You grant the Author a perpetual, irrevocable, worldwide, royalty‑free license to use, modify, distribute, sublicense, and commercially license Your Contribution as part of the Software.
-2. Your Contribution is licensed back to You under this same License (MESAL v1.2).
-3. You affirm that You have the legal right to submit the Contribution.
-4. All Contributions automatically become part of the Software and inherit this License.
+ 1. You grant the Author a perpetual, irrevocable, worldwide, royalty‑free license to use, modify, distribute, sublicense, and commercially license Your Contribution as part of the Software.
+ 2. Your Contribution is licensed back to You under this same License (MESAL v1.2).
+ 3. You affirm that You have the legal right to submit the Contribution.
+ 4. All Contributions automatically become part of the Software and inherit this License.
 
 6. Additional Restrictions
 
 You may not:
 
-1. Use the Software for any Commercial Purpose.
-2. Use the Software in any service, product, or system that is sold, licensed, monetized, or used to support a commercial activity.
-3. Remove or obscure copyright, attribution, or license notices.
-4. Sublicense, sell, rent, or lease the Software.
-5. Use the Software to train or develop models, systems, or tools intended for commercial deployment.
-6. Attempt to circumvent or bypass these restrictions.
+ 1. Use the Software for any Commercial Purpose.
+ 2. Use the Software in any service, product, or system that is sold, licensed, monetized, or used to support a commercial activity.
+ 3. Remove or obscure copyright, attribution, or license notices.
+ 4. Sublicense, sell, rent, or lease the Software.
+ 5. Use the Software to train or develop models, systems, or tools intended for commercial deployment.
+ 6. Attempt to circumvent or bypass these restrictions.
 
 7. No Patent License
 
